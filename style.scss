@@ -9,6 +9,24 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+.slider {
+  width: 100%;
+  overflow: scroll;
+  height: 330px;
+  white-space: nowrap;
+}
+
+@media(min-width: 800px) {
+  .slider::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.pic {
+  width: 300px;
+  display: inline;
+}
+
 /**************/
 /* BASE RULES */
 /**************/

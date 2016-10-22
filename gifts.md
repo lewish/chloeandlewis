@@ -4,12 +4,6 @@ title: Gifts
 permalink: /gifts/
 ---
 
-Some information about you!
+We would kindly request that none of our guests give us any wedding gifts. Instead, we ask that you consider making a donation to one (or all!) of the following charities:
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+TODO
