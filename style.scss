@@ -9,22 +9,40 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
-.slider {
-  width: 100%;
-  overflow: scroll;
-  height: 330px;
-  white-space: nowrap;
+article {
+  text-align: center;
 }
 
-@media(min-width: 800px) {
-  .slider::-webkit-scrollbar {
-    display: none;
-  }
+.slider {
+  width: 100%;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  height: 320px;
+  white-space: nowrap;
 }
 
 .pic {
   width: 300px;
   display: inline;
+}
+
+.slider::-webkit-scrollbar {
+	width: 10px;
+	height: 10px;
+}
+
+.slider::-webkit-scrollbar-track {
+	background-color: rgba(113,112,107,0.1);
+	-webkit-border-radius: 5px;
+}
+
+.slider::-webkit-scrollbar-thumb:horizontal {
+	background-color: rgba(0,0,0,.2);
+	-webkit-border-radius: 6px;
+}
+
+.slider::-webkit-scrollbar-thumb:horizontal:hover {
+	background: gray;
 }
 
 /**************/
