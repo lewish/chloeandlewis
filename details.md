@@ -24,13 +24,14 @@ The closest train station is Paddock Wood (a 10 minute taxi to the venue), which
 
 ### Program
 
-There will be a short ceremony, followed by an afternoon garden party in the sun (hopefully!). Some snacks will be provided throughout the afternoon, but there is no official lunch so please arrive having had a substantial brunch :)
+There will be a short ceremony, followed by an afternoon garden party in the sun (hopefully!). Some snacks will be provided throughout the afternoon, but there is no official lunch so please arrive having had a substantial brunch.
 The evening will involve a sit down meal, followed by dancing.
 There is an open bar, so just bring yourselves!
 
 ### Dress Code
 
-Smart-casual, with a touch of country - please come in something that you feel comfortable in, and be aware that the venue is outdoors with some “rough” terrain. You may also need to dress for the weather...
+Smart-casual - please come in something that you feel comfortable in, and dress for the summer! Be aware that the venue is outdoors with some soft terrain (for the men think dress trousers, chinos and shirts, with jackets and ties being totally optional).
+
 
 ### Accommodation
 
