@@ -4,9 +4,6 @@ title: Gifts
 permalink: /gifts/
 ---
 
-We know many of you will be eager to get us something to celebrate our big day, and we do both love a good surprise! However, after much reflection we came to the same conclusion as many others now are, that the greatest gift you could give us on this day would be to help us support one of these fantastic charities we have specifically chosen below.
+Your presence is the only gift that we ask - that you are here to support us and celebrate with us on our wedding day!
 
-We chose these charities....
-
-* Charity 1
-* Charity 2
+However, we would be honoured if you could make a small donation to our <a href="http://uk.virginmoneygiving.com/fundraiser-web/fundraiser/showFundraiserProfilePage.action?userUrl=chloe-and-lewis">virgin money giving page</a>, where we have selected 3 charities that we care about and would love if you could help us support them.

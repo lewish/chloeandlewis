@@ -16,7 +16,7 @@ Come through for drinks from 1pm, and the ceremony will start at 1.30pm prompt.
 
 Wise Wedding Venue, Maidstone Road, Kent, TN12 6SG (Please note that the postcode is a few hundred meters off, use the map below for exact location).
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2500.7448224551476!2d0.36928131575821327!3d51.18692597958372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTHCsDExJzEyLjkiTiAwwrAyMicxNy4zIkU!5e0!3m2!1sen!2suk!4v1477152597813" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2500.7448224551476!2d0.36928131575821327!3d51.18692597958372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTHCsDExJzEyLjkiTiAwwrAyMicxNy4zIkU!5e0!3m2!1sen!2suk!4v1477152597813" frameborder="0" class="maps-frame" allowfullscreen></iframe>
 
 There will be a signpost directing you into the venue, opposite Whetstead farm. If driving, please follow the driveway to the bottom and find a place to park.
 
