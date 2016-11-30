@@ -28,6 +28,9 @@ If you would like to share with more people than you know, let us know on the RS
 
 There are also a selection of hotels within 10 mins taxi from the venue.
 
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
