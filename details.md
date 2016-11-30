@@ -36,8 +36,11 @@ Smart-casual - please come in something that you feel comfortable in, and dress 
 
 We would love you to stay on site with us overnight and have organised a “glamping village”. Please see the Accommodation page for more details.
 
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
