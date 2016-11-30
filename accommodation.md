@@ -31,5 +31,3 @@ There are also a selection of hotels within 10 mins taxi from the venue.
 
 
 
-
-***
