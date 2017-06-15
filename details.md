@@ -10,7 +10,7 @@ Saturday 24th June 2017
 
 Feel free to arrive at any time in the morning, to settle in if you are staying on-site with us overnight.
 
-Join the party for welcome drinks from 1pm, and our Wedding Ceremony will start at 1.30pm.
+Our Wedding Ceremony will start at 1.30pm, please aim to be there ready to sit down by 1:15pm.
 
 ### Location
 
