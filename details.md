@@ -14,11 +14,11 @@ Our Wedding Ceremony will start at 1.30pm, please aim to be there ready to sit d
 
 ### Location
 
-Wise Wedding Venue, Maidstone Road, Kent, TN12 6SG (Please note that the postcode on SatNavs may be a few hundred meters off, use the map below for the exact location).
+Wise Wedding Venue, Maidstone Road, Kent, TN12 6SG (Please note that the postcode on SatNavs may be a few hundred meters off, use the map below for the exact location of the entrance). Click [here](https://www.google.com/maps/place/51%C2%B011'12.8%22N+0%C2%B022'17.6%22E/@51.186875,0.3706356,348m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d51.186875!4d0.371556?hl=en-GB) for an exact location.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2500.7448224551476!2d0.36928131575821327!3d51.18692597958372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTHCsDExJzEyLjkiTiAwwrAyMicxNy4zIkU!5e0!3m2!1sen!2suk!4v1477152597813" frameborder="0" class="maps-frame" allowfullscreen></iframe>
 
-There will be a signpost directing you into the venue, opposite Whetstead farm. If driving, please follow the track along the hedge to the end for parking.
+There will be a signpost directing you into the venue and balloons at the entrance, which is opposite Whetstead farm on the east side of the road. If driving please follow the track along the hedge to the end for parking.
 
 The closest train station is Paddock Wood (a 10 minute taxi to the venue), which has direct trains from both London Bridge and London Victoria stations.
 
