@@ -6,8 +6,8 @@ permalink: /accommodation/
 
 We have organised a mini “glamping village” which you can book to stay on site overnight, and not have to worry about late night taxis. Breakfast will also be provided for anyone staying!
 
-<img src="/images/tent1.jpg"/>
-<img src="/images/tent2.jpg"/>
+<img src="../images/tent1.jpg"/>
+<img src="../images/tent2.jpg"/>
 
 The bell tents come in various sizes, with a thick roll up beds and furniture including a small table, Indian rug, cushions and a throw.
 
